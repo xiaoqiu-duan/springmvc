@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * Description:
  */
 @Controller
-@RequestMapping("/main/")
+@RequestMapping("/main")
 public class MainController {
 
     @RequestMapping("/index.html")
